@@ -1,0 +1,704 @@
+{
+   "questions":[
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "I am a board game but also a video game,",
+            "The goal is to buy as many properties as possible and become wealthier,",
+            "The mascot wears a white mustache."
+         ],
+         "answer":"Monopoly"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "A tragic destiny that begins with my birth, when I was pulled from the womb of my dead mother,",
+            "I am nevertheless an exceptional fighter, overpowered I handle the dragonslayer easily despite its impressive dimensions,",
+            "Mercenary in the falcon troupe at the beginning of the manga."
+         ],
+         "answer":"Guts"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I am the men\u0027s top goalscorer of the FIFA World Cup with 16 goals,",
+            "I was world champion in 2014 with the Mannschaft,",
+            "I am the top scorer of the German national team with 71 goals."
+         ],
+         "answer":"Miroslav KLOSE"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "First person shooter game played on laptop,",
+            "The goal is to prevent a terrorist act for the first team unlike the second team which must carry out the terrorist act,",
+            "This game was created in the 2000s."
+         ],
+         "answer":"Counter Strike"
+      },
+      {
+         "author":"Alex",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "American film directed by Joe Dante, released in 1984,",
+            "It features little creatures named Mogwai that ravage everything if fed after midnight,",
+            "The main creature is called Gizmo."
+         ],
+         "answer":"Gremlins"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I was 5 times in a row the best scorer of the French\u0027s championship between 1988 and 1992,",
+            "When I started, I was nicknamed \u0027J\u0027en peux plus\u0027,",
+            "I won the Ballon d\u0027Or in 1991."
+         ],
+         "answer":"Jean-Pierre Papin"
+      },
+      {
+         "author":"Claude",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "A 1985 American teen comedy-drama film written, produced, and directed by John Hughes,",
+            "Starring Emilio Estevez, Anthony Michael Hall, Judd Nelson, Molly Ringwald and Ally Sheedy,",
+            "5 teenagers from different high school cliques who spend a Saturday in detention with their authoritarian assistant principal (Paul Gleason)."
+         ],
+         "answer":"Breakfast club"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "I am an action-adventure video game that was produced by the Japanese company Nintendo,",
+            "I have to save a princess,",
+            "Link was introduced as the main character of this game."
+         ],
+         "answer":"Zelda"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "This game was coded in Java language,",
+            "There are several game modes, the main one is survival mode,",
+            "You have to explore, build and fight monsters to survive."
+         ],
+         "answer":"Minecraft"
+      },
+      {
+         "author":"Alex",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "Is an American film by Ivan Reitman, released in 1984 and written by Dan Aykroyd and Harold Ramis,",
+            "The film features Bill Murray, Dan Aykroyd and Harold Ramis in the roles of Peter Venkman, Ray Stantz and Egon Spengler,",
+            "It is a movie about ghosts."
+         ],
+         "answer":"Ghostbusters"
+      },
+      {
+         "author":"Claude",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "A 1982 American science fiction film produced and directed by Steven Spielberg,",
+            "I was an immediate blockbuster, surpassing Star Wars to become the highest-grossing film of all time a record I held for eleven years,",
+            "I tell the story of Elliott, a boy who befriends an extraterrestrial, dubbed \"E.T.\", who is stranded on Earth."
+         ],
+         "answer":"E.T."
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "He was made in the wood,",
+            "He was helped by a cricket and a fairy,",
+            "His father is Gepetto."
+         ],
+         "answer":"Pinocchio"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "He died of lung cancer in 2017,",
+            "He was signed in 2011 by the label Asylum Records to produce its first album entitled \u0027+\u0027,",
+            "He has got red hair."
+         ],
+         "answer":"Ed Sheeran"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "My first appearance was made on the Nokia 3310 phone,",
+            "I have to eat apples to grow,",
+            "I absolutely must not touch my body at the risk of losing the game."
+         ],
+         "answer":"Snake"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I do a lot of statistics,",
+            "I teach math in second year,",
+            "I\u0027m a woman."
+         ],
+         "answer":"Dumont"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I was nicknamed \u0027The Belgian wizard\u0027,",
+            "In 1993, as coach of Olympique de Marseille, I won the champion league, becoming the first and only coach to win this tournament with a French football club. Was the first and only coach to win the Champions League with a French football club,",
+            "I was elected Coach of the Year by Onze Mondial magazine in 1991 and 1993."
+         ],
+         "answer":"Raymond Goethals"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I have a spaceshsip: The Arcadia,",
+            "I have a scar on my face,",
+            "I am a space corsair."
+         ],
+         "answer":"Albator"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I give a lot of nicknames to my students,",
+            "I like to make humor in the second degree and black humor,",
+            "I teach accounting courses."
+         ],
+         "answer":"Boulert"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "I am one of the most played games in the world",
+            "I\u0027m an online battle arena type video game",
+            "I was developed and published by Riot Games."
+         ],
+         "answer":"League of Legends"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "It\u0027s an American singer-songwriter, dancer-choreographer and actor,",
+            "He is considered by the book Guinness Records as the most crowned artist of all time,",
+            "11 years old, he creates with his brothers the group \u0027Jackon five\u0027."
+         ],
+         "answer":"Michael Jackson"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "My \u0027mule\u0027 cut was devastating in the 80s and 90s,",
+            "I played for Saint-Etienne from 1971 to 1980,",
+            "At club level, he won 4 Division 1 titles, 3 Coupes de France and played in the 1976 European Champion Clubs\u0027 Cup final."
+         ],
+         "answer":"Dominique ROCHETEAU"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I am the most successful domestic league goal-scorer in football history scoring 650 goals in 694 League matches,",
+            "I won three FIFA World Cups in 1958, 1962 and 1970 with Brazil,",
+            "I won the Ballon d\u0027Or 7 times."
+         ],
+         "answer":"Pel\u00E9"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "She is accompanied by mouses,",
+            "She have two horrible and ugly sisters,",
+            "She was helped by her fairy godmother."
+         ],
+         "answer":"Cinderella"
+      },
+      {
+         "author":"Claude",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "A 1985 American science fiction film directed by Robert Zemeckis,",
+            "I am the first movie of a trilogie, starring Christopher Lloyd and Mickael J. Fox,",
+            "Marty McFly, who accidentally travels back in time from 1985 to 1955 with the DeLorean time machine invented by Doctor Brown where he meets his future parents and becomes the romantic interest of his mother."
+         ],
+         "answer":"Back to the futur"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I was nicknamed \u0027El Pibe de Oro\u0027(\u0027The Golden Boy\u0027),",
+            "I am the author of the famous goal known under the name of \u0027Hand of God\u0027,",
+            "I won the world cup in 1986 with Argentina."
+         ],
+         "answer":"Diego MARADONA"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I have a dragon tattoo on my arm,",
+            "I am a knight,",
+            "My girlfriend name Elizabeth."
+         ],
+         "answer":"Meliodas"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I use a lot of keyboard shortcuts,",
+            "I teach math in second year,",
+            "I teach on Jupyter Notebook."
+         ],
+         "answer":"Palermo"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "It is Disney\u0027s 32nd animated classic and inspired by the work of Shakespeare \u0027Hamlet\u0027,",
+            "The story of the film was imagined in the savannah where the leader was killed by his jealous brother,",
+            "This film had a 3D animation remake in 2019."
+         ],
+         "answer":"The lion king"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I teach during the three years of study for the computer section,",
+            "I\u0027m a woman,",
+            "I love London."
+         ],
+         "answer":"Crespin"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I travel the world with two friends,",
+            "Despite the years, I always look ten,",
+            "My best friend is Pikachu."
+         ],
+         "answer":"Sacha"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "I am a puzzle video game that was designed by Alekse\u00EF Pajitnov,",
+            "I was created in 1984,",
+            "I am made up of a playing field where pieces of different shapes descend from the top of the screen."
+         ],
+         "answer":"Tetris"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "The most played massively multiplayer online role-playing game in the world,",
+            "The publisher of this game is Blizzard,",
+            "An acronym has been found for this game. It is \u0027WOW\u0027."
+         ],
+         "answer":"World of Warcraft"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I always wear a shirt and a polo shirt to give lessons,",
+            "Mister Palermo was my student,",
+            "I love teaching java lessons."
+         ],
+         "answer":"Colmant"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I am a man,",
+            "I take care of internships,",
+            "I supervise the project."
+         ],
+         "answer":"Altares"
+      },
+      {
+         "author":"Claude",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "A 1985 American adventure comedy directed by Richard Donner and based on a Steven Spielberg story,",
+            "Starring, among others, Sean Austin, Josh Brolin, Corey Feldman, Jeff Cohen,",
+            "A group of children linving in the \"Goon Docks\" district of Astoria, try to save their homes by searching for the lost treasure of One-Eyed Willy, a legendary 17th century Pirate. Throughout the adventure, they are chased by the Fratellis, a crime family."
+         ],
+         "answer":"The Goonies"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I like to try to make humor,",
+            "Youtube videos were created by me,",
+            "In all my courses, I teach the Java course."
+         ],
+         "answer":"Godefroid"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "It is a saga currently composed of 5 films,",
+            "The main character is a pirate interpreted by Johnny Depp,",
+            "Part of the first film was shot on the island of Tortuga."
+         ],
+         "answer":"Pirates of the Caribbean"
+      },
+      {
+         "author":"Alex",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "American science fiction film directed by James Cameron, released in 1984,",
+            "The film has become one of the classics of action and anticipation cinema of the 1980\u0027s,",
+            "The main actor is Arnold Schwarzenegger."
+         ],
+         "answer":"Terminator"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "His real name is Marshall Bruce Mathers III,",
+            "He is an American rapper, also producer, actor, composer, and label founder,",
+            "His best known nickname is \u0027Slim Shady\u0027."
+         ],
+         "answer":"Eminem"
+      },
+      {
+         "author":"Claude",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "I am based on Stephen King\u0027s 1982 novella The Bodyand my title is derived from Ben E. King\u0027s song,",
+            "Starring\u0027s Wil Wheaton, River Phoenix, Corey Feldman, and Jerry O\u0027Connell,",
+            "Four boys in 1959 in Castle Rock, Oregon, go on a hike to find the dead body of a missing boy."
+         ],
+         "answer":"Stand by me"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "My father is a popular doctor in my country,",
+            "I lost my mom in the mouth of a Titan,",
+            "I am a human, but also a Titan."
+         ],
+         "answer":"Eren"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I am the football capital of France,",
+            "I was European champion in 1993,",
+            "I was 120 years old in 2019."
+         ],
+         "answer":"L\u0027Olympique de Marseille"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I am the first French who has been selected 100 times in the National Team,",
+            "I hold the record of matches spent on the bench (coach) in the French Team,",
+            "I won the World Cup as a player and a coach."
+         ],
+         "answer":"Didier DESCHAMPS"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I was born in Munich on 11th September 1945,",
+            "I was nicknamed \u0027Der Kaiser\u0027,",
+            "I won the Ballon d\u0027Or in 1972 and in 1976."
+         ],
+         "answer":"Franz BECHENBAUER"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "Heroine is called Ariel,",
+            "She has a friend named Polochon,",
+            "She was manipulated by the Ursula Sea Witch."
+         ],
+         "answer":"The little Mermaid"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "He died of lung cancer in 2017,",
+            "He was Belgian and his real name was Jean-Philippe Smet,",
+            "Many successes such as \u0027Allumer le feu\u0027 and \u0027Requiem pour un fou\u0027 were interpreted by him."
+         ],
+         "answer":"Johnny Hallyday"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "It\u0027s a Spanish pop singer-songwriter,",
+            "He is the third child of the Spanish singer Julio,",
+            "He has lived with Russian tennis player Anna Kournikova since 2001."
+         ],
+         "answer":"Enrique Iglesias"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "Many games are in the effigy of my name,",
+            "My goal is to save the princess,",
+            "I am a plumber and I wear blue overalls and a red gillet."
+         ],
+         "answer":"Mario"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I am a member of the Fairy Tail Guild,",
+            "I am Zereph\u0027s brother,",
+            "I get motion sickness."
+         ],
+         "answer":"Natsu"
+      },
+      {
+         "author":"Claude",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "A 1980 psychological horror film produced by Stanley Kubrick,",
+            "Starring Jack Nicholson, Shelley Duvall, Scatman Crothers and Danny Lloyd,",
+            "Jack Torrance, a recovering alcoholic, who accepts a position as the off-season caretaker of the isolated Overlook Hotel in the Colorado Rockies. His young son, Danny possesses psychic abilities that enable him to see into the hotel\u0027s horrific past."
+         ],
+         "answer":"Shining"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "His real name is Stefani Joanne Angelina Germanotta,",
+            "She created the controversy at the 2010 MTV Music Awards by appearing at the ceremony with a dress made entirely of raw meat,",
+            "She shared the poster of the film \u0027A star is born\u0027 with Bradley Cooper."
+         ],
+         "answer":"Lady Gaga"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "He is spotted in 2008 by an artistic agent and he introduces him to Usher,",
+            "His first album was followed by the single Baby,",
+            "He is the first artist to exceed ten billion views on Youtube."
+         ],
+         "answer":"Justin Bieber"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Games",
+         "clues":[
+            "I train creatures and I fight with them,",
+            "I can earn up to eight arena badges if i beat all the champions,",
+            "I want to be the best of all."
+         ],
+         "answer":"Pokemon"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "During his sixteen years of career, he was one of the French artists most appreciated by the public,",
+            "He died by electrocution in his bathtub in 1978,",
+            "He was nicknamed Cloclo."
+         ],
+         "answer":"Claude FranÃÂÃÂ§ois"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I am bald,",
+            "I follow a hard training everyday,",
+            "I beat my enemies with one punch."
+         ],
+         "answer":"Saitama"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I am the head of the computer section,",
+            "I teach internet technologies and mobile technologies,",
+            "I am a man."
+         ],
+         "answer":"Mercier"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I really appreciate the students in management computer science,",
+            "I was a lawyer before becoming a teacher,",
+            "I teach law courses."
+         ],
+         "answer":"Artielle"
+      },
+      {
+         "author":"Claude",
+         "theme":"80\u0027s movies",
+         "clues":[
+            "American romantic drama film, released in 1987,",
+            "Starring MaryStuart Masterson, Eric Stoltz and Lea Thompson,",
+            "Keith aspires to improve their social status. When he invites Amanda the most popular girl in school, his best tomboy friend, Watts realizes that she is really in love with him."
+         ],
+         "answer":"Some Kind of Wonderful"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "53rd film from the classic Disney animation studios inspired by Andersen\u0027s tale of the same name,",
+            "The song \u0027let it go\u0027 in English performed by Indina Menzel and \u0027lib\u00E9r\u00E9e d\u00E9livr\u00E9e\u0027 in French by Anais Delva was a worldwide hit,",
+            "This film, released in 2013, takes place in Arendelle and stages a snowman named Olaf who is dubbed in French by Dany Boon."
+         ],
+         "answer":"Frozen"
+      },
+      {
+         "author":"Claude",
+         "theme":"Football",
+         "clues":[
+            "I\u0027m the 2nd youngest scorer in the world cup behind King Pel\u00E9,",
+            "I did a hat-trick against FC Bruges in just one half during the Champion League\u0027s pool phase,",
+            "By scoring against Nimes on February 23,2019, I became the youngest player of the history to pass the 50 goal mark in the French league\u0027s first divison."
+         ],
+         "answer":"Mbapp\u00E9"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "One of the main characters was interpreted by Robin Williams,",
+            "This movie was released during the second golden age of Disney studios in 1992,",
+            "In the scenario, there is a little monkey named Abu and a parrot named Iago."
+         ],
+         "answer":"Aladdin"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Professor",
+         "clues":[
+            "I always wear a shirt to give lessons,",
+            "I give lessons in first and second year,",
+            "I teach language c."
+         ],
+         "answer":"Carpentier"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I am a Saiyan,",
+            "My wife is a human with blue hair,",
+            "My worst enemy is called Son Goku."
+         ],
+         "answer":"Vegeta"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "His real name is Paul Van Haver,",
+            "He made his name in 2009 with the song \u0027Alors on danse\u0027 from the album Cheese,",
+            "He takes a career break in 2016 and wants to stay in the shadows."
+         ],
+         "answer":"Stromae"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "In this history, China is invaded by the Huns,",
+            "The heroine pretends to be a man and goes to war instead of his wounded father,",
+            "The protagonist is accompanied by a cricket and a dragon called Mushu."
+         ],
+         "answer":"Mulan"
+      },
+      {
+         "author":"Alex",
+         "theme":"Singers",
+         "clues":[
+            "An American singer-songwriter and guitarist who created the group Nirvana in 1987,",
+            "In the last years of his life, fighting his addiction to heroin,",
+            "At the time, he was married to Courtney Love."
+         ],
+         "answer":"Kurt Cobain"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "It is a girl with very long blond hair,",
+            "Her hair is magical and illuminates when she sings,",
+            "She has as a pet a chameleon named Pascal."
+         ],
+         "answer":"Tangled"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I like card games,",
+            "I have a strange haircut,",
+            "My grandpa told me that cards had a soul."
+         ],
+         "answer":"Yugi"
+      },
+      {
+         "author":"Leandro",
+         "theme":"Animes Characters",
+         "clues":[
+            "I am a cook on a ship,",
+            "I smoke,",
+            "I fight with my legs."
+         ],
+         "answer":"Sanji"
+      },
+      {
+         "author":"Alex",
+         "theme":"Disney",
+         "clues":[
+            "His family killed by a leopard,",
+            "He was educated by monkeys,",
+            "Jane is his love."
+         ],
+         "answer":"Tarzan"
+      }
+   ]
+}

@@ -1,0 +1,216 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+ @font-face{
+	font-family: Homework;
+	src : url("../../Resources/fonts/Homework.ttf");
+	
+}
+
+@font-face{
+	font-family: Neon;
+	src : url("../../Resources/fonts/neon.ttf");
+	
+}
+
+/* @font-face{
+	font-family : Clues;
+	src : url("../../Resources/fonts/");
+}
+*/
+
+#pane{
+    -fx-background-image: url("../../image/background.jpg");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1200 650;
+    -fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+}
+
+#pauseAP{
+	
+	-fx-background-image: url("../../image/backgroundPause.png");
+    -fx-background-repeat: stretch;   
+    -fx-background-size: 1200 650;
+    -fx-background-position: center center;
+	-fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0); 
+	
+}
+
+#score{
+	
+	-fx-background-color : transparent;
+	-fx-background-image : url("../../image/frametitle.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-size: 150 60;
+	-fx-font-family: Homework;  
+	-fx-font-size : 36 px ;
+	
+	
+	
+}
+
+
+ #lblPick{
+	-fx-background-color : transparent;
+	-fx-background-image : url("../../image/frametitle.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-size: 700 70;
+	-fx-font-family: Neon;
+	-fx-font-size : 40px ;
+	-fx-font-style:  italic;
+	
+	
+}
+
+ #lblTimer{
+ 	
+	/*-fx-background-color : transparent;*/
+	-fx-background-image : url("../../image/frametimer.png");
+	-fx-background-repeat: stretch;  
+	-fx-background-position: center center;
+	-fx-background-size: 90 70;
+	-fx-font-family: Homework;
+	-fx-font-size : 36px ;
+	
+}
+
+#clues{
+	
+	-fx-background-color : white;
+	-fx-border-color: rgb(106,113,245);
+	-fx-border-width: 5;
+	/*-fx-background-image : url("../../image/frameclues.png");
+	-fx-background-repeat : stretch;   
+	-fx-background-size :  1000px 600px;
+	fx-font-family: Clues;	
+	-fx-background-position: center center;*/
+	-fx-font-size : 16px;
+	
+	
+}
+
+.text #lblPick{
+	
+	-fx-fill : rgb(106,113,245);
+	
+}
+/* #txtTheme{
+		
+	
+	-fx-font-size : 40px;
+	-fx-font-family: Neon;
+	
+}*/
+
+
+
+#size{
+	
+	-fx-background-color : red;
+	
+}
+
+.button	{
+	
+	-fx-background-image: url("../../image/button.png");
+	-fx-background-repeat: stretch;   
+    -fx-background-position: center center;
+    -fx-background-color: transparent;
+    -fx-font-family: Homework;  
+}
+
+.button .text{
+	
+	-fx-fill : rgb(0, 150, 255);
+	-fx-font-size : 32px ;
+}
+
+#buttonMenu{
+	   
+    -fx-background-size: 450 60;
+	}
+	
+#buttonPause{
+	
+	
+	-fx-background-size: 500 78;
+}
+
+#buttonBack{
+	
+	-fx-background-image: url("../../image/buttonYellow.png");
+    -fx-background-size: 60 50;
+}
+
+#btnPauseGAP {
+	
+	
+	-fx-background-image: url("../../image/btnPause.png");
+    -fx-background-size: 60 60;
+	
+}
+
+#btnSkip{
+	
+	-fx-background-image: url("../../image/btnSkip.png");
+    -fx-background-size: 60 50;
+	
+}
+#btnBonus{
+		
+    -fx-background-size: 60 60;
+    -fx-font-size : 20px ; 
+}
+
+#btnClear{
+	
+	-fx-background-size: 90 50;
+	
+}
+
+#btnEndGame {
+	
+	-fx-background-size: 170 50;
+    -fx-font-size : 20px ; 
+	
+	
+}
+
+#endGame{
+	 -fx-font-family: Homework;  
+	 -fx-font-size : 40px ;
+	 
+	
+}
+
+#btnAdmin{
+	
+	-fx-background-size: 220 50;
+    -fx-font-size : 20px ; 
+	
+}
+
+#userGameAP{
+	
+	-fx-background-color : red;
+	-fx-background-image : url("../../image/frametitle.png");
+	-fx-background-repeat: stretch;   
+	-fx-background-size: 150 60;
+	-fx-font-family: Homework;  
+	-fx-font-size : 36 px ;
+	 
+}
+
+#btnLoginUser{
+	
+	-fx-background-size: 220 50;
+    -fx-font-size : 20px ; 
+	
+}
+
+#pbScore{
+	
+	-fx-base : Blue;
+	-fx-accent : rgb(28, 255, 43);
+	
+	
+}
